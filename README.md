@@ -73,29 +73,29 @@ This dataset was introduced by British Statistician and Biologist Ronald Fisher,
 The plot below gives a visualization illustartion of sample parameters extracted from the iris dataset. 
 ![git1](https://github.com/Yuvasree9/Logistic-Regression-with-TensorFlow/assets/95610545/7efb82ec-b802-40b0-b4fa-7223cd94d94c)
 <br><br><br>
-Now, Let's decode what happened there-
-<h5>What happened there!!</h5>
+Now, Let's decode-
+<h4>What happened there!!</h4>
 <body>
     <ol>
-        <li>Start by installing Tensorflow and required packages.</li>
-        <li>Import the needed libraries such as Numpy,Pandas,time,tensorflow,sci-kit learn and matplot library.</li>
-        <li>Load the Iris dataset from the source. </li>
+        <li>Started by installing Tensorflow and required packages.</li>
+        <li>Imported the needed libraries such as Numpy,Pandas,time,tensorflow,sci-kit learn and matplot library.</li>
+        <li>Loaded the Iris dataset from the source. </li>
         <li>Split the data into training and testing sets.</li>
-        <li>Extract the features and labels from the iris dataset</li>
+        <li>Extracted the features and labels from the iris dataset</li>
         <ul>
             <li>The features are the input we want to use to make a prediction, the label is the data we want to predict.</li></ul>
         <li>Randomly sample the data from a normal distribution with standard deviation .01 .</li>
-        <li>Define the logistic regression function with a sigmoid activation and mean squared logarithmic error loss function</li>
-        <li>Train the model using the training data for 700 epochs.</li> 
+        <li>Defined the logistic regression function with a sigmoid activation and mean squared logarithmic error loss function</li>
+        <li>Trained the model using the training data for 700 epochs.</li> 
         <li>Here, we used the SGD optimizer.</li>
         <ul>
             <li>For those who are thinking about what is SGD is, Stochastic Gradient Descent(often abbreviated SGD) is an iterative method for optimizing an objective function with suitable smoothness properties (e.g. differentiable or subdifferentiable).</li></ul>
         <li>Later,the metrics argument specifies that we want to track accuracy during training and evaluation.</li>
-        <li>At last, we evaluate the model on the iris dataset and get the accuracy metrics.</li>
-        <li>For our comfort, we print the accuracy predicted values in the form a graphical plot which resembles a sigmoid function as shown above.</li>
+        <li>At last, we evaluated the model on the iris dataset and get the accuracy metrics.</li>
+        <li>For our comfort, we printed the accuracy predicted values in the form a graphical plot which resembles a sigmoid function as shown above.</li>
     </ol>
 </body>
 <br><br>
 That's it!!
-<br>This is how logistic regression can be used for binary classification with TensorFlow.<br>Thanks for being with me till the end!!<br> Will meet you soon
+<br>This is how logistic regression can be used for binary classification with TensorFlow.<br>I know that everyone knows this...still learning never goes waste.<br>Thanks for being with me till the end!!<br> Will meet you soon
             <br>P.S.: I am open to know my mistakes to grow better, Please do tell your opinion. Thanks in advance<br>To the dreams!!<br>Cheers!!!
