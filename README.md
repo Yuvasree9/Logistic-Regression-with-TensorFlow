@@ -98,4 +98,4 @@ Now, Let's decode-
 <br><br>
 That's it!!
 <br>This is how logistic regression can be used for binary classification with TensorFlow.<br>I know that everyone knows this...still learning never goes waste.<br>Thanks for being with me till the end!!<br> Will meet you soon
-            <br>P.S.: I am open to know my mistakes to grow better, Please do tell your opinion. Thanks in advance<br>To the dreams!!<br>Cheers!!!
+            <br>P.S.: I am open to know my mistakes to grow better, Please do tell your opinion and give your feedback @yuvasree.t9@gmail.com . Thanks in advance<br>To the dreams!!<br>Cheers!!!
