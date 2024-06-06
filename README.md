@@ -1,13 +1,13 @@
 # Logistic-Regression-with-TensorFlow
 This repo helps to know more about Logistic Regression and it executes with the help of TensorFlow Library <br><br><br>
-<b>Tensorflow<b> is a large Open-source Software library by Google.
+<b>Tensorflow</b> is a large Open-source Software library by Google.
 <br>It is used for numerical computation using data flow graphs.
 <br>It helps in Faster Compilation and used in many ML and Deep neural network applications.
 <br><br><br>
-<b>Logistic regression<b> is one of the Supervised Learning Algorithm where it allows categorizing data into discrete classes by learning the relationship from a given set of labeled data.<br> It learns a linear relationship from the given dataset and then introduces a non-linearity in the form of the Sigmoid function. 
+<b>Logistic regression</b> is one of the Supervised Learning Algorithm where it allows categorizing data into discrete classes by learning the relationship from a given set of labeled data.<br> It learns a linear relationship from the given dataset and then introduces a non-linearity in the form of the Sigmoid function. 
 <br><br>
 Now, We understand this logistic regression using "Iris Dataset"
-<br> <b>Source<b> : https://archive.ics.uci.edu/dataset/53/iris
+<br> <b>Source</b> : https://archive.ics.uci.edu/dataset/53/iris
 <br><br>
 This dataset was introduced by British Statistician and Biologist Ronald Fisher, it consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). In total it has 150 records under five attributes - petal length, petal width, sepal length, sepal width and species.
 <!DOCTYPE html>
@@ -89,7 +89,7 @@ Now, Let's decode what happened there-
         <li>Train the model using the training data for 700 epochs.</li> 
         <li>Here, we used the SGD optimizer.</li>
         <ul>
-            <li>For those who are thinking about what is SGD is, Stochastic Gradient Descent(often abbreviated SGD) is an iterative method for optimizing an objective function with suitable smoothness properties (e.g. differentiable or subdifferentiable).</li>
+            <li>For those who are thinking about what is SGD is, Stochastic Gradient Descent(often abbreviated SGD) is an iterative method for optimizing an objective function with suitable smoothness properties (e.g. differentiable or subdifferentiable).</li></ul>
         <li>Later,the metrics argument specifies that we want to track accuracy during training and evaluation.</li>
         <li>At last, we evaluate the model on the iris dataset and get the accuracy metrics.</li>
         <li>For our comfort, we print the accuracy predicted values in the form a graphical plot which resembles a sigmoid function as shown above.</li>
@@ -98,4 +98,4 @@ Now, Let's decode what happened there-
 <br><br>
 That's it!!
 <br>This is how logistic regression can be used for binary classification with TensorFlow.<br>Thanks for being with me till the end!!<br> Will meet you soon
-            <br>P.S.: I am open to know my mistakes to grow better, Please do tell your opinion. Thanks in advance<br><br>To the dreams!!<br>Cheers!!!
+            <br>P.S.: I am open to know my mistakes to grow better, Please do tell your opinion. Thanks in advance<br>To the dreams!!<br>Cheers!!!
